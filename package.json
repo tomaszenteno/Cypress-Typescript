@@ -7,9 +7,10 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "cypress:open": "cypress open"
   },
-  "author": "",
+  "author": "Tomas Zenteno",
   "license": "ISC",
-  "description": ""
+  "description": "Cypress + Typescript base project"
 }
